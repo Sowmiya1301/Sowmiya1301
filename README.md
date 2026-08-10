@@ -17,25 +17,6 @@ I started with a blank HTML file and a lot of curiosity. Since then I've taught 
 - 🧩 Specialization: MERN Stack
 - 📍 Based in Inuvil, Sri Lanka
 - 🎓 Following an BSE in Software Engineering at The Open University of Sri Lanka
-- 🔭 Right now: React — Phase 2 of a 10-phase self-built roadmap
-- 🌱 Learning in public — every project ships with a README and a writeup
-
-<br/>
-
-
-
- 
-
-| Stage | Status |
-|---|---|
-| HTML | ✅ Done |
-| CSS | ✅ Done |
-| Tailwind CSS | ✅ Done |
-| JavaScript (ES6+) | ✅ Done |
-| Git & GitHub | ✅ Done |
-| React.js | 🟡 In progress — Phase 2 of 10 |
-| WordPress | ⬜ Up next |
-| Backend — Node.js / Express / MongoDB | ⬜ Planned |
 
 <br/>
 
@@ -61,11 +42,11 @@ I started with a blank HTML file and a lot of curiosity. Since then I've taught 
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Codewithfiza&hide_border=true&background=00000000&ring=8B5CF6&fire=06B6D4&currStreakLabel=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&sideLabels=E5E7EB&dates=8B98A8" width="90%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sowmiya1301&hide_border=true&background=00000000&ring=8B5CF6&fire=06B6D4&currStreakLabel=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&sideLabels=E5E7EB&dates=8B98A8" width="90%" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codewithfiza&bg_color=00000000&color=8B5CF6&line=06B6D4&point=6D28D9&hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sowmiya1301&bg_color=00000000&color=8B5CF6&line=06B6D4&point=6D28D9&hide_border=true" width="90%" />
 </div>
 
 <br/>
