@@ -13,8 +13,8 @@
 
 I started with a blank HTML file and a lot of curiosity. Since then I've taught myself CSS, Tailwind, and JavaScript, picked up Git & GitHub along the way, and I'm currently deep in **React** working toward a full **MERN stack** skill set.
 
-- 🎯 **Goal:** Full-Stack Web Developer
-- 🧩 Specialization: MERN Stack
+- 🎯 **Goal:** Front-end Developer
+- 🧩 Specialization: React
 - 📍 Based in Inuvil, Sri Lanka
 - 🎓 Following an BSE in Software Engineering at The Open University of Sri Lanka
 
