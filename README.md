@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5EAD,50:1591DC,100:4BB8FA&height=220&section=header&text=Hi,%20I'm%20Sowmiya&fontSize=44&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" width="100%"/>
   <a href="https://github.com/Sowmiya1301">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=007DCC&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+React.js+Developer;Building+Scalable+%26+Performant+Web+Applications;Turning+Complex+Ideas+Into+Elegant+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=007DCC&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+React.js+Developer;Building+Scalable+%26+Performance+Web+Applications;Turning+Complex+Ideas+Into+Elegant+Solutions" alt="Typing SVG" />
   </a>
 <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Sowmiya1301&color=007DCC&style=for-the-badge&label=Profile+Views" />
@@ -15,7 +15,7 @@
   <a href="https://github.com/Sowmiya1301">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:sowmiyauthayakumar1301@gmail.com">
+  <a href="mailto:usowmiya00@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -23,35 +23,35 @@
 
 ### About Me
 
-Software Engineer with 1+ year of professional experience building modern web applications and software solutions. Experienced in **React.js, TailwindCSS, and JavaScript**, with additional experience in React Native and enterprise software development.
+Software Engineer with 1+ year of professional experience building modern web applications and software solutions. Experienced in **React.js, TailwindCSS, and JavaScript.**
 
 I enjoy turning ideas and business requirements into **reliable, scalable, and user-focused applications**.
 
 - 🎯 **Goal:** Front-end Developer
 - 🧩 Specialization: React
 - 📍 Based in Jaffna, Sri Lanka
-- 🎓 Following an BSE in Software Engineering at The Open University of Sri Lanka
+- 🎓 Following BSE in Software Engineering at The Open University of Sri Lanka
 
 <br/>
 
-🛠️ Tech Stack
+### Tech Stack <br/>
 Languages & Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,,tailwind,bootstrap&theme=dark" />
 </div>
 <br/>
 Backend & Database
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=dark" />
 </div>
 <br/>
 Tools & Platforms
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 </div>
 <br/>
 
-### 📌 Featured Projects
+### Featured Projects
 
 | Project | Stack | Description |
 |---|---|---|
@@ -72,7 +72,6 @@ Tools & Platforms
 
 <br/>
 
-🤝 Let's Connect
 <div align="center">
   <p><i>I'm always open to discussing new projects, creative ideas, or opportunities to be part of something great.</i></p>
   <a href="https://www.linkedin.com/in/sowmiya-uthayakumar/">
@@ -81,7 +80,7 @@ Tools & Platforms
   <a href="https://github.com/Sowmiya1301">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:sowmiyauthayakumar1301@gmail.com">
+  <a href="mailto:usowmiya00@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
