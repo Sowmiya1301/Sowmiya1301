@@ -16,7 +16,7 @@ I enjoy turning ideas and business requirements into **reliable, scalable, and u
 
 - 🎯 **Goal:** Front-end Developer
 - 🧩 Specialization: React
-- 📍 Based in Inuvil, Sri Lanka
+- 📍 Based in Jaffna, Sri Lanka
 - 🎓 Following an BSE in Software Engineering at The Open University of Sri Lanka
 
 <br/>
