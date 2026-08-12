@@ -37,7 +37,7 @@ I enjoy turning ideas and business requirements into **reliable, scalable, and u
 ### Tech Stack <br/>
 Languages & Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,,tailwind,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" />
 </div>
 <br/>
 Backend & Database
@@ -63,7 +63,7 @@ Tools & Platforms
 ### GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sowmiya1301&hide_border=true&background=00000000&ring=8B5CF6&fire=06B6D4&currStreakLabel=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&sideLabels=E5E7EB&dates=8B98A8" width="90%" />
+<img src="https://streak-stats.demolab.com/?user=Sowmiya1301&hide_border=true&background=00000000&ring=8B5CF6&fire=06B6D4&currStreakLabel=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&sideLabels=E5E7EB&dates=8B98A8" width="90%" />
 </div>
 
 <div align="center">
