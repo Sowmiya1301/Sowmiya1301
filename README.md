@@ -64,6 +64,7 @@ Tools & Platforms
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=Sowmiya1301&hide_border=true&background=00000000&ring=8B5CF6&fire=06B6D4&currStreakLabel=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&sideLabels=E5E7EB&dates=8B98A8" width="90%" />
+  \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=Sowmiya1301&hide\_border=true&background=00000000&ring=8B5CF6&fire=06B6D4&currStreakLabel=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&sideLabels=E5E7EB&dates=8B98A8](https://github-readme-streak-stats.herokuapp.com/?user=Sowmiya1301\&hide_border=true\&background=00000000\&ring=8B5CF6\&fire=06B6D4\&currStreakLabel=E5E7EB\&currStreakNum=E5E7EB\&sideNums=E5E7EB\&sideLabels=E5E7EB\&dates=8B98A8)" width="90%" />
 </div>
 
 <div align="center">
