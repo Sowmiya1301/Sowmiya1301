@@ -1,11 +1,24 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:06B6D4&height=220&section=header&text=Hi,%20I'm%20Sowmiya&fontSize=44&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" width="100%"/>
-<a href="https://github.com/Sowmiya1301">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+React.js;Building+Scalable+Web+Applications;Turning+Ideas+Into+Working+Software" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=Sowmiya1301&color=8b5cf6&style=flat&label=Profile+Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5EAD,50:1591DC,100:4BB8FA&height=220&section=header&text=Hi,%20I'm%20Sowmiya&fontSize=44&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" width="100%"/>
+  <a href="https://github.com/Sowmiya1301">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=007DCC&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+React.js+Developer;Building+Scalable+%26+Performant+Web+Applications;Turning+Complex+Ideas+Into+Elegant+Solutions" alt="Typing SVG" />
+  </a>
+<br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Sowmiya1301&color=007DCC&style=for-the-badge&label=Profile+Views" />
+<br/><br/>
+  <a href="https://www.linkedin.com/in/sowmiya-uthayakumar/">
+    <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=for-the-badge&logo=briefcase&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sowmiya-uthayakumar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sowmiya1301">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:sowmiyauthayakumar1301@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
-
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=12" width="100%"/>
 
 ### About Me
@@ -21,10 +34,20 @@ I enjoy turning ideas and business requirements into **reliable, scalable, and u
 
 <br/>
 
-### Tech Stack
-
+🛠️ Tech Stack
+Languages & Frameworks
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,git,github,nodejs,express,mongodb,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+</div>
+<br/>
+Backend & Database
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+</div>
+<br/>
+Tools & Platforms
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
 </div>
 <br/>
 
@@ -49,11 +72,20 @@ I enjoy turning ideas and business requirements into **reliable, scalable, and u
 
 <br/>
 
-### 🔗 Connect
-
+🤝 Let's Connect
 <div align="center">
-<a href="https://www.linkedin.com/in/sowmiya-uthayakumar/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Sowmiya1301"><img src="https://img.shields.io/badge/GitHub-06B6D4?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <p><i>I'm always open to discussing new projects, creative ideas, or opportunities to be part of something great.</i></p>
+  <a href="https://www.linkedin.com/in/sowmiya-uthayakumar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sowmiya1301">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:sowmiyauthayakumar1301@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:6D28D9&height=150&section=footer" width="100%"/>
+<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5EAD,50:1591DC,100:4BB8FA&height=150&section=footer" width="100%"/>
+</div>
